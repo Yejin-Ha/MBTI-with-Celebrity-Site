@@ -1,5 +1,13 @@
 # MBTI_with_Celebrity_Site
-team. 강정현, 손유진, 이재선, 하예진
+<details>
+    <summary>team. 강정현, 손유진, 이재선, 하예진</summary><br>
+    * 각자의 역할<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강정현 - 발표, sql 쿼리문 병합, DB에 사용될 데이터 검색<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;손유진 - 발표 자료<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;이재선 - sql 쿼리문 병합, DB에 사용될 데이터 검색<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;하예진 - 메인 아이디어 제공, 전체적인 시각화 이미지 생성, 발표 자료<br>
+    + 각자의 아이디어와 sql 쿼리문, DB에 대한 토론 후 프로젝트를 진행하였습니다.
+</details>
 
 ## 목차
 1. 프로젝트 설명
