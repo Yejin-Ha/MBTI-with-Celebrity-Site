@@ -6,26 +6,32 @@ team. 강정현, 손유진, 이재선, 하예진
 3. 서비스 화면 구성
 4. DataBase 테이블 구조
 5. sql코드
+<br>
+<br>
 
 ### 1. 프로젝트 설명
 자신의 mbti를 연예인과 매칭하는 프로젝트.
 자신의 이름과 mbti를 입력하는데 자신의 mbti를 모르면 검사할 수 있는 페이지로 연결하는 버튼이 구성되어있다.
 그리고 사용자들의 흥미를 유발하기 위해 대표 연예인들의 mbti와 사진을 3~4개 정도 구성할 것이다.
 mbti를 입력하여 화면에 넘어가면 해당 mbti 대표 연예인의 사진과 간단한 mbti에 대한 설명 그리고 해당 연예인에 대한 정보를 소개하는 화면이 나온다.
-
+<br>
+<br>
 
 ### 2. 서비스 화면 구성
 [oven 에서 보기](https://ovenapp.io/project/rujvQSlJTzgi8fMcg758vLttFR9N6QeZ#2zO2y)<br>
-<img src="./img/home.PNG" width="75%" />
+<img src="./img/homePage.PNG" width="75%" />
 > 메인 화면
 
 <img src="./img/sub.PNG" width="75%" />
 > 검색 화면
-
+<br>
+<br>
 
 ### 3. DataBase 테이블 구조
 
 <img src="./img/DB.PNG" width="75%" />
+<br>
+<br>
 
 ### 4. sql코드
 
