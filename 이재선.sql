@@ -9,7 +9,7 @@ create table C_info(
     mbti char(4) constraint C_info_mbti_nn not null,
     id number(2) primary key,
     name varchar2(10) constraint C_info_name_nn not null,
-    img varchar2(100) constraint C_info_img_nn not null,
+    img varchar2(200) constraint C_info_img_nn not null,
     birth date constraint C_info_birth_nn not null,
     debut date constraint C_info_debut_nn not null
 );
