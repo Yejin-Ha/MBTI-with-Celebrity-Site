@@ -14,9 +14,12 @@ mbti를 입력하여 화면에 넘어가면 해당 mbti 대표 연예인의 사�
 
 ### 2. 서비스 화면 구성
 [oven 에서 보기](https://ovenapp.io/project/rujvQSlJTzgi8fMcg758vLttFR9N6QeZ#2zO2y)
+<img src="./img/home.PNG" width="75%" />
+<img src="./img/sub.PNG" width="75%" />
 
 ### 3. DataBase 테이블 구조
-<img src="./img/db.PNG" width="75%" />
+
+<img src="./img/DB.PNG" width="75%" />
 
 ### 4. sql코드
 
