@@ -1,9 +1,9 @@
 # MBTI_with_Celebrity_Site
 ## 목차
 1. 프로젝트 설명
-2. 서비스 화면 구성
-3. DataBase 테이블 구조
-4. sql코드
+3. 서비스 화면 구성
+4. DataBase 테이블 구조
+5. sql코드
 
 ### 1. 프로젝트 설명
 자신의 mbti를 연예인과 매칭하는 프로젝트.
