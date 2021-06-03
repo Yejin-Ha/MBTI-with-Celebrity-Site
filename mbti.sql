@@ -16,4 +16,4 @@ create table CAREER(
 create table RELATION(
     ID number(2) constraint RELATION_ID_fk references C_INFO(ID),
     GOOD number(2) constraint RELATION_GOOD_fk references C_INFO(ID),
-    BAD number(2) constraint RELATION_BADD_fk references C_INFO(ID));
+    BAD number(2) constraint RELATION_BAD_fk references C_INFO(ID));
