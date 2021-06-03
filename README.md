@@ -1,4 +1,6 @@
 # MBTI_with_Celebrity_Site
+team. 강정현, 손유진, 이재선, 하예진
+
 ## 목차
 1. 프로젝트 설명
 3. 서비스 화면 구성
