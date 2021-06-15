@@ -1,4 +1,5 @@
 # MBTI_with_Celebrity_Site
+팀원들의 이름을 눌러 각자의 역할을 확인할 수 있습니다.
 <details>
     <summary>team. 강정현, 손유진, 이재선, 하예진</summary><br>
     * 각자의 역할<br>
@@ -8,6 +9,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;하예진 - 메인 아이디어 제공, 전체적인 시각화 이미지 생성, 발표 자료<br>
     + 각자의 아이디어와 sql 쿼리문, DB에 대한 토론 후 프로젝트를 진행하였습니다.
 </details>
+
+> Notion 으로 보기 -> [클릭하세요!](https://www.notion.so/MBTI-with-Celebrity-Site-143cf95ea31f481da23598c68bb4ce88)
 
 ## 목차
 1. 프로젝트 설명
